@@ -6,7 +6,7 @@
 This repository contains the code, processed data, and figures supporting our *Cell* Matters Arising / bioRxiv preprint:
 
 > **Pan-cancer equiprevalence cannot distinguish contaminants from cross-cancer microbiota**
-> Li Y, Pei J. bioRxiv (2026). [doi:10.5281/zenodo.20621025](https://doi.org/10.5281/zenodo.20621025) (software archive; preprint DOI to be assigned upon submission)
+> Li Y, Pei J. bioRxiv (2026). [doi:10.5281/zenodo.20621024](https://doi.org/10.5281/zenodo.20621024) (software archive; preprint DOI to be assigned upon submission)
 
 ---
 
@@ -139,8 +139,8 @@ If you use this code or analysis, please cite both the preprint and the original
   title   = {pce-circularity: code and figures for the Matters Arising on Dohlman et al. (Cell, 2026)},
   year    = {2026},
   version = {1.0.1},
-  doi     = {10.5281/zenodo.20621025},
-  url     = {https://doi.org/10.5281/zenodo.20621025}
+  doi     = {10.5281/zenodo.20621024},
+  url     = {https://doi.org/10.5281/zenodo.20621024}
 }
 
 @article{dohlman_2026_microbiome,
@@ -154,7 +154,7 @@ If you use this code or analysis, please cite both the preprint and the original
 }
 ```
 
-A Zenodo archive of this repository is available at **[DOI: 10.5281/zenodo.20621025](https://doi.org/10.5281/zenodo.20621025)**.
+A Zenodo archive of this repository is available at **[DOI: 10.5281/zenodo.20621024](https://doi.org/10.5281/zenodo.20621024)**.
 
 ---
 

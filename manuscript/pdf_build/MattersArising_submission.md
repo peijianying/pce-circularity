@@ -106,7 +106,7 @@ The authors declare no competing interests.
 
 # Data and code availability
 
-All source data are public and listed in the Methods section. Code reproducing every figure panel and statistical claim in this manuscript is available at <https://github.com/peijianying/pce-circularity> and archived on Zenodo ([doi:10.5281/zenodo.20621025](https://doi.org/10.5281/zenodo.20621025)). Intermediate results (CSV tables, RDS objects) and the rendered Figure 1 (PDF + PNG) are bundled with the repository.
+All source data are public and listed in the Methods section. Code reproducing every figure panel and statistical claim in this manuscript is available at <https://github.com/peijianying/pce-circularity> and archived on Zenodo ([doi:10.5281/zenodo.20621024](https://doi.org/10.5281/zenodo.20621024)). Intermediate results (CSV tables, RDS objects) and the rendered Figure 1 (PDF + PNG) are bundled with the repository.
 
 # Methods (brief)
 
