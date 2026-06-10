@@ -1,0 +1,5 @@
+"category","n","median_PCE","pct_PCE_gt07"
+"Cancer-specific real",50,0.163416831045799,0
+"Cross-cancer REAL",50,0.957350475917376,100
+"Null noise",50,0.815148729083327,100
+"True contaminant",50,0.954514497861633,100

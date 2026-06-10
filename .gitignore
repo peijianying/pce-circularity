@@ -1,0 +1,36 @@
+# --- raw data (not redistributed; download via README instructions) ---
+data/
+*.zip
+*.maf.gz
+*.tsv.gz
+mc3.nonsilent.gene.matrix.gz
+TCGA_ABSOLUTE_purity.tsv
+
+# --- R session detritus ---
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- editor ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Python / Jupyter (in case anything sneaks in) ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- staging / scratch ---
+scratch/
+tmp/
+*.log
+
+# Data symlink (real data lives outside repo, downloaded by fetch_data.sh)
+data

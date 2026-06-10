@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or reproduce these analyses, please cite the bioRxiv preprint as well as this software archive."
+title: "pce-circularity: code and figures for 'Pan-cancer equiprevalence cannot distinguish contaminants from cross-cancer microbiota'"
+type: software
+authors:
+  - given-names: "[YourFirst]"
+    family-names: "[YourLast]"
+    email: "[email@example.com]"
+    affiliation: "[Affiliation]"
+    orcid: "https://orcid.org/[your-orcid]"
+repository-code: "https://github.com/[your-username]/pce-circularity"
+url: "https://github.com/[your-username]/pce-circularity"
+license: MIT
+keywords:
+  - tumor microbiome
+  - decontamination
+  - equiprevalence
+  - pathseq
+  - tumor mutation burden
+  - tumor purity
+  - pan-cancer
+  - methods critique
+preferred-citation:
+  type: article
+  title: "Pan-cancer equiprevalence cannot distinguish contaminants from cross-cancer microbiota"
+  authors:
+    - given-names: "[YourFirst]"
+      family-names: "[YourLast]"
+  journal: "bioRxiv"
+  year: 2026
+  doi: "[TBD]"
