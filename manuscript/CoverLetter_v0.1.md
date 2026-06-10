@@ -4,7 +4,7 @@ Jianying Pei, Ph.D.
 Clinical Laboratory Center
 Gansu Provincial Maternity and Child-care Hospital
 Lanzhou 730050, Gansu, China
-Email: 861645823@qq.com
+Email: peijianying1989@163.com
 ORCID: 0000-0003-0108-9230
 
 [Date: TBD before submission]
@@ -41,7 +41,7 @@ Sincerely,
 
 **Jianying Pei, Ph.D.** (corresponding author)
 Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China
-861645823@qq.com | ORCID: [0000-0003-0108-9230](https://orcid.org/0000-0003-0108-9230)
+peijianying1989@163.com | ORCID: [0000-0003-0108-9230](https://orcid.org/0000-0003-0108-9230)
 
 on behalf of:
 

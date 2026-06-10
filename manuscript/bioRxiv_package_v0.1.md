@@ -21,7 +21,7 @@ Yan Li¹, Jianying Pei²,\*
 ¹Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China
 ²Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China
 
-\*Correspondence: 861645823@qq.com
+\*Correspondence: peijianying1989@163.com
 
 ORCID: 0000-0003-0108-9230 (J.P.)
 
@@ -80,7 +80,7 @@ tumor microbiome; decontamination; equiprevalence; PathSeq; tumor mutation burde
 
 🧬 7/ The orodigestive findings (multi-kingdom communities, F. nucleatum–MSI) are independent of these concerns and remain interesting. The pan-cancer absence claim is the part we think needs revisiting.
 
-🧬 8/ Code and data: https://github.com/peijianying/pce-circularity (Zenodo DOI: 10.5281/zenodo.20621024). Companion *Cell* Matters Arising submitted today. Comments welcome.
+🧬 8/ Code and data: https://github.com/peijianying/pce-circularity (Zenodo DOI: 10.5281/zenodo.20622530). Companion *Cell* Matters Arising submitted today. Comments welcome.
 
 ---
 

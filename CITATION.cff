@@ -4,7 +4,7 @@ title: "pce-circularity: code and figures for the Matters Arising on Dohlman et 
 type: software
 version: "1.0.2"
 date-released: "2026-06-10"
-doi: "10.5281/zenodo.20621024"
+doi: "10.5281/zenodo.20622530"
 authors:
   - given-names: "Yan"
     family-names: "Li"
@@ -12,7 +12,7 @@ authors:
     affiliation: "Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China"
   - given-names: "Jianying"
     family-names: "Pei"
-    email: "861645823@qq.com"
+    email: "peijianying1989@163.com"
     affiliation: "Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China"
     orcid: "https://orcid.org/0000-0003-0108-9230"
 repository-code: "https://github.com/peijianying/pce-circularity"

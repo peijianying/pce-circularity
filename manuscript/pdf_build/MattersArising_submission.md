@@ -13,7 +13,7 @@ urlcolor: blue
 \begin{flushleft}
 \textsuperscript{1}Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China.\\
 \textsuperscript{2}Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China.\\
-\textsuperscript{*}Correspondence: \href{mailto:861645823@qq.com}{861645823@qq.com} (J.P.). ORCID: \href{https://orcid.org/0000-0003-0108-9230}{0000-0003-0108-9230}.
+\textsuperscript{*}Correspondence: \href{mailto:peijianying1989@163.com}{peijianying1989@163.com} (J.P.). ORCID: \href{https://orcid.org/0000-0003-0108-9230}{0000-0003-0108-9230}.
 \end{flushleft}
 
 \vspace{0.5em}
@@ -64,7 +64,7 @@ The PathSeq–T2T pipeline of Dohlman et al.^1^ is a real methodological advance
 
 \vspace{0.5em}
 
-![Two methodological concerns regarding Dohlman et al. (Cell, 2026). **(A)** Distribution of PCE scores by ground-truth category in a synthetic 100kGP-like cohort (27 cancer types, n = 15,371; 50 species per category). Dashed line: PCE = 0.7 contaminant cutoff. **(B)** Per-cancer prevalence patterns of representative species, color-coded by ground-truth category. **(C)** PCE threshold sensitivity: across thresholds 0.3–0.99, the fraction of cross-cancer real microbiota lost (purple, dashed) tracks the fraction of true contaminants correctly removed (green); FDR (red) stays above 50% until thresholds at which contaminants are also no longer caught. **(D)** Raw correlation between log~10~(TMB) and log~10~(microbial load) in TCGA orodigestive cancers (TCMA-decontaminated WXS^2^; n = 1,024); r = 0.115. **(E)** Site-stratified Pearson r before (red, raw) and after (blue, purity-adjusted) regressing both variables on tumor purity; direction reverses in ESCA and HNSC. **(F)** Within-purity-quintile r in pooled orodigestive cancers; signal is detectable only in upper quintiles.](../../results/Figure1_final/Figure1.pdf){width=100%}
+![Two methodological concerns regarding Dohlman et al. (Cell, 2026). **(A)** Distribution of PCE scores by ground-truth category in a synthetic 100kGP-like cohort (27 cancer types, n = 15,371; 50 species per category). Dashed line: PCE = 0.7 contaminant cutoff used by Dohlman et al.^1^ **(B)** Per-cancer prevalence patterns of representative species (4 per category), color-coded by ground-truth category; cross-cancer real microbiota and true contaminants are visually and quantitatively indistinguishable. **(C)** PCE threshold sensitivity: across thresholds 0.3–0.99, the fraction of cross-cancer real microbiota lost to the filter (purple, dashed) tracks the fraction of true contaminants correctly removed (green) almost identically; the FDR among species classified as contaminants (red) stays above 50% until thresholds at which contaminants are also no longer caught. **(D)** Raw correlation between log~10~(TMB) and log~10~(microbial load) in TCGA orodigestive cancers (TCMA-decontaminated WXS^2^; n = 1,024); r = 0.115, p = 2.2 × 10^−4^. **(E)** Site-stratified Pearson r before (red, raw) and after (blue, purity-adjusted) regressing both variables on tumor purity; direction reverses in ESCA and HNSC. **(F)** Within-purity-quintile r in pooled orodigestive cancers; the TMB–microbe correlation is detectable only in the upper purity quintiles, indicating partial confounding by the shared host-DNA denominator.](../../results/Figure1_v2/Figure1_v2.png){width=100%}
 
 \newpage
 
@@ -106,7 +106,7 @@ The authors declare no competing interests.
 
 # Data and code availability
 
-All source data are public and listed in the Methods section. Code reproducing every figure panel and statistical claim in this manuscript is available at <https://github.com/peijianying/pce-circularity> and archived on Zenodo ([doi:10.5281/zenodo.20621024](https://doi.org/10.5281/zenodo.20621024)). Intermediate results (CSV tables, RDS objects) and the rendered Figure 1 (PDF + PNG) are bundled with the repository.
+All source data are public and listed in the Methods section. Code reproducing every figure panel and statistical claim in this manuscript is available at <https://github.com/peijianying/pce-circularity> and archived on Zenodo ([doi:10.5281/zenodo.20622530](https://doi.org/10.5281/zenodo.20622530)). Intermediate results (CSV tables, RDS objects) and the rendered Figure 1 (PDF + PNG) are bundled with the repository.
 
 # Methods (brief)
 

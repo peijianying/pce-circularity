@@ -26,7 +26,7 @@ Yan Li¹, Jianying Pei²,\*
 ¹Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China
 ²Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China
 
-\*Correspondence: 861645823@qq.com (J.P.)
+\*Correspondence: peijianying1989@163.com (J.P.)
 
 ORCID: 0000-0003-0108-9230 (J.P.)
 
@@ -120,7 +120,7 @@ The authors declare no competing interests.
 
 ## Data and code availability
 
-All source data are public and listed in the *Methods* section. Code reproducing every figure panel and statistical claim in this manuscript is available at https://github.com/peijianying/pce-circularity and archived on Zenodo (https://doi.org/10.5281/zenodo.20621024). Intermediate results (CSV tables, RDS objects) and the rendered Figure 1 (PDF + PNG) are bundled with the repository.
+All source data are public and listed in the *Methods* section. Code reproducing every figure panel and statistical claim in this manuscript is available at https://github.com/peijianying/pce-circularity and archived on Zenodo (https://doi.org/10.5281/zenodo.20622530). Intermediate results (CSV tables, RDS objects) and the rendered Figure 1 (PDF + PNG) are bundled with the repository.
 
 ---
 
@@ -138,4 +138,4 @@ All source data are public and listed in the *Methods* section. Code reproducing
 - v0.3 changes: (i) PubMed-verified reference list (12 entries); (ii) Dohlman 2022 fungal Cell paper added as ref 3 to anchor the equiprevalence-thresholding lineage to a second source; (iii) Methods block added (Cell sometimes asks for one inline in Matters Arising); (iv) figure callouts updated to match the final composite figure.
 - Anticipated reviewers: Dohlman, Meyerson, Segata, Huttenhower. The PCE point is mathematical and cannot be defeated by counter-data. The TMB point will draw a "cohort-specific" rebuttal — the response is that the original paper presents the trend as orodigestive-wide, and our TCGA replication contradicts that framing in 2/5 sites.
 - Submission window: *Cell Matters Arising* requires submission within 3 months of original publication (June 11, 2026 → hard deadline ≈ September 11, 2026). bioRxiv preprint same day as submission.
-- Once GitHub repo is public and Zenodo DOI is minted, replace `[your-username]` and `[TBD]` placeholders. **DONE 2026-06-10:** GitHub repo at https://github.com/peijianying/pce-circularity; Zenodo DOI 10.5281/zenodo.20621024.
+- Once GitHub repo is public and Zenodo DOI is minted, replace `[your-username]` and `[TBD]` placeholders. **DONE 2026-06-10:** GitHub repo at https://github.com/peijianying/pce-circularity; Zenodo DOI 10.5281/zenodo.20622530.

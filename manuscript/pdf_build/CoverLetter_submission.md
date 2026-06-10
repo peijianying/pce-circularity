@@ -12,7 +12,7 @@ header-includes:
 Clinical Laboratory Center\\
 Gansu Provincial Maternity and Child-care Hospital\\
 Lanzhou 730050, Gansu, China\\
-Email: \href{mailto:861645823@qq.com}{861645823@qq.com}\\
+Email: \href{mailto:peijianying1989@163.com}{peijianying1989@163.com}\\
 ORCID: \href{https://orcid.org/0000-0003-0108-9230}{0000-0003-0108-9230}
 \end{flushleft}
 
@@ -50,7 +50,7 @@ We are not proposing that the orodigestive findings of Dohlman et al. are wrong;
 
 We anticipate that this work will be of interest to *Cell* readers working on tumor microbiomes, low-biomass sequencing, and pan-cancer genomics. Suggested external referees are listed in the submission system; we respectfully request that the original authors and their immediate collaborators be excluded as reviewers, given the overlap with their other ongoing work.
 
-A preprint has been deposited at bioRxiv concurrently with this submission, in keeping with *Cell*'s preprint policy. The work has not been submitted elsewhere. All authors have approved the submission and declare no competing interests. The full code, data-fetching scripts, and figures are publicly archived (Zenodo doi: 10.5281/zenodo.20621024).
+A preprint has been deposited at bioRxiv concurrently with this submission, in keeping with *Cell*'s preprint policy. The work has not been submitted elsewhere. All authors have approved the submission and declare no competing interests. The full code, data-fetching scripts, and figures are publicly archived (Zenodo doi: 10.5281/zenodo.20622530).
 
 Thank you for considering this *Matters Arising*. We would be glad to provide additional information or modifications as needed.
 
@@ -62,7 +62,7 @@ Sincerely,
 
 **Jianying Pei, Ph.D.** (corresponding author)\
 Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China\
-861645823@qq.com | ORCID: 0000-0003-0108-9230
+peijianying1989@163.com | ORCID: 0000-0003-0108-9230
 
 \vspace{0.5em}
 
