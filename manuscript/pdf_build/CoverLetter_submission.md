@@ -1,23 +1,40 @@
-# Cover Letter — Matters Arising submission to *Cell*
-
-Jianying Pei, Ph.D.
-Clinical Laboratory Center
-Gansu Provincial Maternity and Child-care Hospital
-Lanzhou 730050, Gansu, China
-Email: 861645823@qq.com
-ORCID: 0000-0003-0108-9230
-
-[Date: TBD before submission]
-
-Dr. [Editor Name]
-Editor, *Cell*
-Cell Press
-50 Hampshire Street, 5th Floor
-Cambridge, MA 02139, USA
-
+---
+title: "Cover Letter — Matters Arising submission"
+fontsize: 11pt
+geometry: "left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm"
+linestretch: 1.2
+header-includes:
+  - \pagestyle{empty}
 ---
 
-Dear Dr. [Editor Name],
+\begin{flushleft}
+\textbf{Jianying Pei, Ph.D.}\\
+Clinical Laboratory Center\\
+Gansu Provincial Maternity and Child-care Hospital\\
+Lanzhou 730050, Gansu, China\\
+Email: \href{mailto:861645823@qq.com}{861645823@qq.com}\\
+ORCID: \href{https://orcid.org/0000-0003-0108-9230}{0000-0003-0108-9230}
+\end{flushleft}
+
+\vspace{1em}
+
+\begin{flushleft}
+[Submission date]
+\end{flushleft}
+
+\vspace{1em}
+
+\begin{flushleft}
+The Editors\\
+\textit{Cell}\\
+Cell Press\\
+50 Hampshire Street, 5th Floor\\
+Cambridge, MA 02139, USA
+\end{flushleft}
+
+\vspace{1.5em}
+
+Dear Editors,
 
 We are writing to submit our manuscript, **"Pan-cancer equiprevalence cannot distinguish contaminants from cross-cancer microbiota,"** for consideration as a *Matters Arising* on Dohlman et al., *Cell* 189, 1–21 (June 11, 2026; doi: 10.1016/j.cell.2026.04.015). The submission is well within the three-month *Matters Arising* window.
 
@@ -31,49 +48,26 @@ In this submission we make two points that we believe constrain the strength of 
 
 We are not proposing that the orodigestive findings of Dohlman et al. are wrong; we are proposing that the decontamination algorithm is logically circular and that the claim of pan-cancer absence is artifactual. Because PCE has been adopted in adjacent work, an early correction matters for the field.
 
-We anticipate that this work will be of interest to *Cell* readers working on tumor microbiomes, low-biomass sequencing, and pan-cancer genomics. Suggested external referees are listed below; we respectfully request that the original authors and their immediate collaborators be excluded as reviewers, given the overlap with their other ongoing work.
+We anticipate that this work will be of interest to *Cell* readers working on tumor microbiomes, low-biomass sequencing, and pan-cancer genomics. Suggested external referees are listed in the submission system; we respectfully request that the original authors and their immediate collaborators be excluded as reviewers, given the overlap with their other ongoing work.
 
-A preprint will be deposited at bioRxiv concurrently with submission, in keeping with *Cell*'s preprint policy. The work has not been submitted elsewhere. All authors have approved the submission and declare no competing interests.
+A preprint has been deposited at bioRxiv concurrently with this submission, in keeping with *Cell*'s preprint policy. The work has not been submitted elsewhere. All authors have approved the submission and declare no competing interests. The full code, data-fetching scripts, and figures are publicly archived (Zenodo doi: 10.5281/zenodo.20621025).
 
 Thank you for considering this *Matters Arising*. We would be glad to provide additional information or modifications as needed.
 
+\vspace{1em}
+
 Sincerely,
 
-**Jianying Pei, Ph.D.** (corresponding author)
-Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China
-861645823@qq.com | ORCID: [0000-0003-0108-9230](https://orcid.org/0000-0003-0108-9230)
+\vspace{2em}
+
+**Jianying Pei, Ph.D.** (corresponding author)\
+Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China\
+861645823@qq.com | ORCID: 0000-0003-0108-9230
+
+\vspace{0.5em}
 
 on behalf of:
 
-**Yan Li** (first author)
-Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China
+**Yan Li** (first author)\
+Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China\
 290192798@xbmu.edu.cn
-
----
-
-## Suggested referees (5)
-
-1. **Robert F. Schwabe**, Columbia University — tumor microbiome, low-biomass methodology
-2. **Ami S. Bhatt**, Stanford University — host-microbe interactions, contamination in clinical sequencing
-3. **Susan Lynch**, UCSF — microbiome statistics, decontamination strategies
-4. **Antonio Gonzalez** (Knight lab), UCSD — pan-cancer microbiome, computational decontamination
-5. **Abraham Gihawi**, University of East Anglia — author of the prior methods critique of pan-cancer microbiome studies (Gihawi et al., *mBio* 2023)
-
-## Excluded referees (justified by direct collaboration with original authors)
-
-- All authors of Dohlman et al. (2026), including Anders Dohlman, Matthew Meyerson, Nicola Segata, Curtis Huttenhower, Phil Quirke, Henry Wood
-- Members of the OPTIMISTICC and PROSPECT Cancer Grand Challenges teams
-- Members of the Dana-Farber and Broad Institute cancer microbiome programs
-
----
-
-## Submission checklist (delete before sending)
-
-- [ ] Replace [Editor Name] with the handling editor for the Dohlman paper (check the original article header on cell.com)
-- [ ] Replace [Date] with the date of submission
-- [ ] Insert your full address and contact details in the letterhead
-- [ ] Confirm ORCID is current
-- [ ] Verify referee affiliations (Schwabe, Bhatt, Lynch, Gonzalez, Gihawi) are still active
-- [ ] Confirm the bioRxiv DOI placeholder will be filled in once preprint is live
-- [ ] If co-authors join the manuscript, list all authors here and attach signed corresponding-author declaration (Cell requires it)
-- [ ] Word count: ~520 (target: ≤1 page = ~500 words)
