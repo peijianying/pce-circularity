@@ -2,12 +2,19 @@ cff-version: 1.2.0
 message: "If you use this code or reproduce these analyses, please cite this software archive."
 title: "pce-circularity: code and figures for the Matters Arising on Dohlman et al. (Cell, 2026)"
 type: software
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-06-10"
+doi: "10.5281/zenodo.20621025"
 authors:
+  - given-names: "Yan"
+    family-names: "Li"
+    email: "290192798@xbmu.edu.cn"
+    affiliation: "Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China"
   - given-names: "Jianying"
     family-names: "Pei"
     email: "861645823@qq.com"
+    affiliation: "Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China"
+    orcid: "https://orcid.org/0000-0003-0108-9230"
 repository-code: "https://github.com/peijianying/pce-circularity"
 url: "https://github.com/peijianying/pce-circularity"
 license: MIT

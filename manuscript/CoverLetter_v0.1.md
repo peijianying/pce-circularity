@@ -1,6 +1,14 @@
 # Cover Letter — Matters Arising submission to *Cell*
 
-[Your Letterhead / Affiliation]
+# Cover Letter — Matters Arising submission to *Cell*
+
+Jianying Pei, Ph.D.
+Clinical Laboratory Center
+Gansu Provincial Maternity and Child-care Hospital
+Lanzhou 730050, Gansu, China
+Email: 861645823@qq.com
+ORCID: 0000-0003-0108-9230
+
 [Date: TBD before submission]
 
 Dr. [Editor Name]
@@ -33,9 +41,15 @@ Thank you for considering this *Matters Arising*. We would be glad to provide ad
 
 Sincerely,
 
-[Your name]
-[Title, Department, Institution]
-[Email] | [ORCID]
+**Jianying Pei, Ph.D.** (corresponding author)
+Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China
+861645823@qq.com | ORCID: [0000-0003-0108-9230](https://orcid.org/0000-0003-0108-9230)
+
+on behalf of:
+
+**Yan Li** (first author)
+Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China
+290192798@xbmu.edu.cn
 
 ---
 

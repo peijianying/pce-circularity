@@ -6,7 +6,7 @@
 This repository contains the code, processed data, and figures supporting our *Cell* Matters Arising / bioRxiv preprint:
 
 > **Pan-cancer equiprevalence cannot distinguish contaminants from cross-cancer microbiota**
-> [Authors]. bioRxiv (2026). doi:[TBD]
+> Li Y, Pei J. bioRxiv (2026). [doi:10.5281/zenodo.20621025](https://doi.org/10.5281/zenodo.20621025) (software archive; preprint DOI to be assigned upon submission)
 
 ---
 
@@ -134,12 +134,13 @@ Output: `results/Figure1_final/Figure1.pdf` (vector) + `Figure1.png` (600 dpi).
 If you use this code or analysis, please cite both the preprint and the original Dohlman et al. paper:
 
 ```bibtex
-@article{your_lastname_2026_pce_circularity,
-  author  = {[Your Name] and colleagues},
-  title   = {Pan-cancer equiprevalence cannot distinguish contaminants from cross-cancer microbiota},
-  journal = {bioRxiv},
+@software{pei_2026_pce_circularity,
+  author  = {Li, Yan and Pei, Jianying},
+  title   = {pce-circularity: code and figures for the Matters Arising on Dohlman et al. (Cell, 2026)},
   year    = {2026},
-  doi     = {[TBD]}
+  version = {1.0.1},
+  doi     = {10.5281/zenodo.20621025},
+  url     = {https://doi.org/10.5281/zenodo.20621025}
 }
 
 @article{dohlman_2026_microbiome,
@@ -153,7 +154,7 @@ If you use this code or analysis, please cite both the preprint and the original
 }
 ```
 
-A Zenodo archive of this repository is available at **DOI: [TBD]**.
+A Zenodo archive of this repository is available at **[DOI: 10.5281/zenodo.20621025](https://doi.org/10.5281/zenodo.20621025)**.
 
 ---
 
@@ -172,10 +173,14 @@ Note: 100kGP-derived microbiome profiles are not redistributable; analyses prese
 
 ## Contact
 
-[Your Name]
-[Affiliation]
-[Email]
-[ORCID]
+**Jianying Pei** (corresponding author)
+Clinical Laboratory Center, Gansu Provincial Maternity and Child-care Hospital, Lanzhou, China
+Email: 861645823@qq.com
+ORCID: [0000-0003-0108-9230](https://orcid.org/0000-0003-0108-9230)
+
+**Yan Li** (first author)
+Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, China
+Email: 290192798@xbmu.edu.cn
 
 For questions about the underlying Dohlman et al. data, please contact the original authors.
 
