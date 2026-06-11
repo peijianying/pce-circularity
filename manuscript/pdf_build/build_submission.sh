@@ -33,7 +33,7 @@ pandoc CoverLetter_submission.md \
 # Word reads PDF figures inconsistently; the markdown sources still point
 # at PDFs for LaTeX, so we substitute to PNGs on the fly for the .docx pass.
 echo "[3/4] MattersArising_v0.3.docx ..."
-sed 's|Figure1_v2/Figure1_v2\.pdf|Figure1_v2/Figure1_v2.png|g; s|Figure1_final/Figure1\.pdf|Figure1_final/Figure1.png|g' \
+sed 's|Figure1_v3/Figure1_v3\.pdf|Figure1_v3/Figure1_v3.png|g; s|Figure1_v2/Figure1_v2\.pdf|Figure1_v2/Figure1_v2.png|g; s|Figure1_final/Figure1\.pdf|Figure1_final/Figure1.png|g' \
     MattersArising_submission.md \
   | pandoc -f markdown -o ../MattersArising_v0.3.docx
 
